@@ -1,0 +1,11 @@
+ion-content ion-toolbar {
+  --background: translucent;
+}
+
+.meetingAvatar {
+  margin: 0px 5px 0px 5px;
+}
+
+.meetingAvatarItem {
+  margin-bottom: 10px;
+}

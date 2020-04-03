@@ -1,0 +1,12 @@
+.calendarContainer{
+  padding:10%;
+}
+.preferredTimeColor{
+  color:var(--ion-color-preferred)
+}
+.secondaryTimeColor{
+  color:var(--ion-color-secondchoice)
+}
+.notAvailableTimeColor{
+  color:var(--ion-color-danger)
+}
